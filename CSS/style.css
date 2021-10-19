@@ -1,0 +1,35 @@
+
+.navbar{
+    background-color:black;
+    
+}
+
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: auto;
+    height: 70px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 4px solid transparent;
+    border-top: 4px solid transparent;
+    white-space: nowrap;
+}
+
+.btn{
+    font-weight: bold;
+    color: white;
+}
+
+.home{
+    background-color: darkblue;
+}
+
+.margin{
+    padding-top: 20px;
+}
